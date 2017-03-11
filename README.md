@@ -47,7 +47,7 @@ creates this output:
 
 As you could have noticed, `OxypogonRenderer` transforms class name `ArticleTest` into a filename `article-test.jsx` and resolves it into a full path specified by `config.basepath` on constructor invocation which is concateneted to a filename itself. 
 
-Probably, this transormation is excessive, but as far as I believe it serves a common NodeJS class name to file name convention, it will reside here.
+Probably, this transormation is excessive, but as far as I believe it serves a common NodeJS class name to file name mapping convention, it will reside here.
 
 ## License
 
