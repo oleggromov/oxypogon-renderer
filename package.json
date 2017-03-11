@@ -1,7 +1,8 @@
 {
   "name": "oxypogon-renderer",
   "version": "0.1.0",
-  "description": "A renderer class which renders a react component to string and returns it",
+  "description": "A renderer class which renders a react component to a string",
+  "keywords": ["react", "server", "render", "html"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
